@@ -1,0 +1,1 @@
+Virtual Cube is an interactive 3x3 Rubik's Cube built on Python and Tkinter.
